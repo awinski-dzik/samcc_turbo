@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-install_reqs = ['biopython>=1.76', 'networkx==2.2', 'seaborn>=0.10.0']
+install_reqs = ['biopython>=1.76', 'networkx>=2.2', 'seaborn>=0.10.0']
 
 setup(
   name = 'samcc-turbo',
